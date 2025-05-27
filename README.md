@@ -224,8 +224,7 @@ Created: 2025-05-27 09:01 | Updated: 2025-05-27 09:05
 project_directory/
 ├── document_manager.py    # Main program file
 ├── documents.json        # Data storage (auto-created)
-├── README.md            # This file
-└── exported_files/      # Directory for exports (auto-created)
+└── README.md            # This file
 ```
 
 ## API Reference
